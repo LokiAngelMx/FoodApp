@@ -1,7 +1,9 @@
 #FoodApp
 
 ##View 1
-https://raw.githubusercontent.com/LokiAngelMx/FoodApp/main/assets/Pantalla1.png
+![Pantalla 1]
+(https://github.com/LokiAngelMx/FoodApp/blob/main/assets/Pantalla1.png)
 
 ##View 2
-https://raw.githubusercontent.com/LokiAngelMx/FoodApp/main/assets/Pantalla2.png
+![Pantalla 2]
+(https://github.com/LokiAngelMx/FoodApp/blob/main/assets/Pantalla2.png)
